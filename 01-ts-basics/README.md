@@ -639,3 +639,5 @@ generateError("An error occured", 500);
 ```
 
 This function above will never returned any value. Only throw an error.
+
+[Credit to →](https://github.com/themaximehardy)

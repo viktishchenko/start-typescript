@@ -129,3 +129,5 @@ const { firstName: userName, age } = person;
 
 console.log(userName, age);
 ```
+
+[Credit to →](https://github.com/themaximehardy)

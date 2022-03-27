@@ -273,3 +273,5 @@ It is a good practice to put keep them at `true` (default value).
 4. Add a breakpoint somewhere. It should work!
 
 Note: the port for the `url` has to be the same as your current server.
+
+[Credit to →](https://github.com/themaximehardy)
